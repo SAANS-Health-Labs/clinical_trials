@@ -1,0 +1,54 @@
+﻿trial_id,sentence_id,sentence,inclusion
+1,1,Patients diagnosed with type 2 diabetes mellitus ,1
+1,2,Patients have treated with diet/exercise at least 3 months ,1
+1,3,"7.5% ≤HbA1C ≤11.0% at screening,7.0% ≤HbA1C ≤10.5% after run-in ",1
+1,4,Patient has history of type 1 diabetes mellitus ,0
+1,5,Patient has history of ketoacidosis ,0
+1,6,Patient has history of severe unconscious hypoglycemosis ,0
+1,7,Patient has history of acute and chronic pancreatitis or pancreatic injury that may lead to high risk of pancreatitis ,0
+1,8,"Patient has history of decompensated heart failure (NYHA class III and IV), unstable angina, stroke or transient ischemic attack, myocardial infarction, persistence and clinical ",0
+1,9,"Patient has history of a history of hypertension, and after antihypertensive treatment, systolic blood pressure ≥ 160 mmHg or diastolic blood pressure ≥ 100 mmHg ",0
+1,10,"Patient has severe liver or kidney disease,alanine aminotransferase >2×UNL, Aspartate Aminotransferase >2×upper normal limit(UNL)；total bilirubin >2×UNL； creatinine>1.5 mg/dL (Male,132.6μmol/L) ，>1.4 mg/dL(Female，123.8μmol/L) ",0
+1,11,"Patient has severe chronic gastrointestinal disease or therapy that may affect drug absorption, such as gastrointestinal surgery ",0
+1,12,Patient has severe haematological diseases or other diseases leading to hemolyze and red blood cell unstable (malaria、haemolytic anaemia eg. ) ,0
+1,13,"Patient has other endocrine diseases, for example hyperthyroidism、hypothyroidism、hypercortisolism、multiple endocrine neoplasia and so on ",0
+1,14,Patient has history of malignancy ,0
+1,15,Patient has history of alcohol or drug abuse,0
+2,16,"males and females of any race and ethnicity with T2DM, HbA1c of ≥6.5% and ≤10.0% on diet only ",1
+2,17,take stable doses of oral antihyperglycemic agents with or without long-acting insulin ,1
+2,18,must have a regular primary care provider (PCP) that is amenable to patient study participation and will facilitate (blinded to the treatment) the research team's study protocol efforts ,1
+2,19,type 1 diabetes mellitus (T1DM) ,0
+2,20,current or recent glucagon-like peptide 1 receptor (GLP-1R) agonist use ,0
+2,21,"contraindications to MRI (e.g., claustrophobia, ferromagnetic materials, body habitus inappropriate for MRI exam) ",0
+2,22,"screening carotid ultrasound plaque thickness of <0.75 mm, prior or anticipated carotid stenting or endarterectomy ",0
+2,23,"recent CVD (past 6 months) or other major illness or conditions affecting risk (e.g., pancreatitis, severe renal disease) or personal or family history of medullary thyroid carcinoma ",0
+2,24,patients with Multiple Endocrine Neoplasia syndrome type 2 ,0
+2,25,serious hypersensitivity to exenatide or any product components ,0
+2,26,"severe gastrointestinal disease, or pregnancy",0
+3,27,Participants with a diagnosis of type 2 diabetes mellitus (T2DM) ,1
+3,28,Random C-peptide at screening greater than (>)0.6 nanogram/milliliter (ng/mL) (>0.2 nanomole/liter [nmol]/L]) ,1
+3,29,"HbA1c of greater than or equal to (>=)6.5 percent (%) to less than or equal to (<=)11.0% and meets 1 of the inclusion criteria below: 1. On diet and exercise only for at least 4 weeks prior to screening 2. On diet and exercise and a stable dose of metformin monotherapy >=1,000 mg per day or MTD per day for at least 8 weeks prior to screening 3. On diet and exercise and a stable insulin monotherapy regimen for at least 8 weeks prior to screening (stable dose is defined as no change in the insulin regimen [ie, type{s} of insulin] and <=15% change in the total daily dose of insulin [averaged over 1 week to account for day to day variability]) 4. On diet and exercise and a stable combination therapy with metformin and insulin for at least 8 weeks prior to screening ",1
+3,30,"History of diabetic ketoacidosis (DKA), type 1 diabetes mellitus (T1DM), pancreas or cell transplantation, or diabetes secondary to pancreatitis or pancreatectomy or maturity onset diabetes of the young (MODY) ",0
+3,31,"Participants on any antihyperglycemic agents (AHAs) other than metformin, or injectable insulin within 8 weeks of the first dose of study drug (that is Day 1) ",0
+3,32,"Repeated (2 or more over a 1-week period) fasting self-monitoring of blood glucose (SMBG) measurements >270 milligram/deciliter (mg/dL) (>15 millimole/liter [mmol/L]) during the pretreatment phase, despite reinforcement of diet and exercise counseling ",0
+3,33,Severe hypoglycemia within 6 months prior to Day 1 ,0
+3,34,History of hereditary glucose-galactose malabsorption or primary renal glucosuria ,0
+3,35,"Alanine aminotransferase level >5.0 times the upper limit of normal (ULN) or total bilirubin >1.5 times the ULN at screening (for elevations in bilirubin: if, in the opinion of the investigator and agreed upon by the sponsor's medical officer, the elevation in bilirubin is consistent with Gilbert's disease, the subject may participate)",0
+4,36,"Male or female, aged between 18 and 72 years (both inclusive) at the time of signing informed consent. ",1
+4,37,Body mass index between 18.5 and 37.9 kg/m^2 (both inclusive). ,1
+4,38,Diagnosed with type 2 diabetes mellitus greater than or equal to 180 days prior to the day of screening. ,1
+4,39,Glycosylated haemoglobin type A1c (HbA1c) less than or equal to 9.0% (less than or equal to 74 mmol/mol) at screening. ,1
+4,40,Current total daily insulin treatment between 0.2 and 1.0 U/kg/day (both inclusive). ,1
+4,41,Known or suspected hypersensitivity to trial products or related products. ,0
+4,42,"Female who is pregnant, breast-feeding or intends to become pregnant or is of child-bearing potential and not using an adequate contraceptive method. ",0
+4,43,"Presence or history of any clinically relevant respiratory, metabolic, renal, hepatic, gastrointestinal, endocrinological conditions (except conditions associated with diabetes mellitus).",0
+5,44,"Patients who are participating (or who have participated) in qualifying studies and who have not been required to discontinue study treatment for protocol or safety reasons and who have completed required End-of-Treatment and/or Follow-up visits in a prior clinical study with bardoxolone methyl and who, according to the assessment of the investigator, have a potential positive benefit-risk assessment for participating in the trial. ",1
+5,45,"Meets the following eligibility criteria based on assessments from the prior qualifying study (last on-treatment visit) or from a screening visit, if applicable: 1. Not expected to reach end stage kidney disease (ESKD) or nephrotic syndrome within 12 weeks of study enrollment, in the investigator's judgement; subjects with eGFR <20 ml/min/1.73m2 should be discussed with the medical monitor before enrollment (e.g., such subjects with an average rate of eGFR decline > 1.0 ml/min/1.73m2 per month in the 3 months prior to eligibility assessment may not be eligible); 2. BNP < 200 pg/mL at the last on-treatment visit in the prior qualifying study or at a new screening visit, if applicable; 3. No occurrence of a cardiovascular serious adverse event in the prior qualifying study or in the interval between the end of the qualifying study and the screening visit, if applicable. ",1
+5,46,"Willing and able to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures. ",1
+5,47,Evidence of a personally signed and dated informed consent document (and assent form if necessary) indicating that the patient (or a legally acceptable representative) has been informed of all pertinent aspects of the study prior to initiation of any protocol-mandated procedures. ,1
+5,48,Participation in other investigational clinical studies involving interventional products being tested or used in a way different from the approved form or when used for an unapproved indication; ,0
+5,49,Patients who have an ongoing SAE from a clinical study that is assessed by the investigator as related to bardoxolone methyl; ,0
+5,50,"Unwilling to practice acceptable methods of birth control (both males who have partners of childbearing potential and females of childbearing potential) while screening, taking study drug and 30 days after the last study drug dose; ",0
+5,51,Women who are pregnant or breastfeeding; ,0
+5,52,"Patient is, in the opinion of the investigator, unable to comply with the requirements of the study protocol or is unsuitable for the study for any reason; ",0
+5,53,Known hypersensitivity to any component of the study drug.,0
