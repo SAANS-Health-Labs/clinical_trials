@@ -3,7 +3,7 @@ In this demo, I matched 10 patients to 5 clinical trials. Patient and clinical t
 
 ner.ipynb <br />
 purpose: NER <br />
-input: patients_synthetic.csv <br />
+input: patients_synthetic.csv, trials.csv <br />
 output: trials_ner_211112.csv, patients_ner_211112.csv <br />
 
 similarity.ipynb <br />
